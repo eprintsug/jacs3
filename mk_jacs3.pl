@@ -20,6 +20,11 @@ while( my $row = $csv->getline( $fh ) )
 	if( $code !~ /^([A-Z])000/ )
 	{
 		$parent = sprintf( "%s000", substr( $code, 0, 1 ) );
+		$label = sprintf( "%s %s", $code, $label );
+	}
+	else
+	{
+		$label = sprintf( "%s %s", substr( $code, 0, 1 ), $label );
 	}
 
 	print join( ":", $code, $label, $parent, $parent eq "subjects" ? 0 : 1 );
