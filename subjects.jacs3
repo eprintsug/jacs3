@@ -1,0 +1,1571 @@
+subjects:Joint Academic Coding System (JACS) Version 3.0:ROOT:0
+A100:Pre-clinical medicine:A000:1
+A200:Pre-clinical dentistry:A000:1
+A300:Clinical medicine:A000:1
+A400:Clinical dentistry:A000:1
+A900:Others in medicine & dentistry:A000:1
+A990:Medicine & dentistry not elsewhere classified:A000:1
+A000:Medicine & dentistry:subjects:0
+B100:Anatomy, physiology & pathology:B000:1
+B110:Anatomy:B000:1
+B120:Physiology:B000:1
+B121:Clinical physiology:B000:1
+B130:Pathology:B000:1
+B131:Cellular pathology:B000:1
+B132:Pathobiology:B000:1
+B140:Neuroscience:B000:1
+B160:Physiotherapy:B000:1
+B170:Podiatry:B000:1
+B190:Anatomy, physiology & pathology not elsewhere classified:B000:1
+B200:Pharmacology, toxicology & pharmacy:B000:1
+B210:Pharmacology:B000:1
+B220:Toxicology:B000:1
+B230:Pharmacy:B000:1
+B290:Pharmacology, toxicology & pharmacy not elsewhere classified:B000:1
+B300:Complementary medicines, therapies & well-being:B000:1
+B310:Osteopathy:B000:1
+B320:Chiropractic:B000:1
+B340:Alternative medicine & therapies:B000:1
+B341:Chinese:B000:1
+B342:Herbalism:B000:1
+B343:Acupuncture:B000:1
+B344:Aromatherapy:B000:1
+B345:Hypnotherapy:B000:1
+B346:Reflexology:B000:1
+B350:Hair & beauty science:B000:1
+B351:Hair services:B000:1
+B352:Beauty therapies:B000:1
+B353:Make-up:B000:1
+B360:Spa & water-based therapies:B000:1
+B390:Complementary medicines, therapies & well-being not elsewhere classified:B000:1
+B400:Nutrition:B000:1
+B410:Dietetics:B000:1
+B490:Nutrition not elsewhere classified:B000:1
+B500:Ophthalmics:B000:1
+B510:Optometry:B000:1
+B520:Orthoptics:B000:1
+B590:Ophthalmics not elsewhere classified:B000:1
+B600:Aural & oral sciences:B000:1
+B610:Audiology:B000:1
+B620:Speech science:B000:1
+B630:Language pathology:B000:1
+B690:Aural & oral sciences not elsewhere classified:B000:1
+B700:Nursing:B000:1
+B701:Palliative care nursing:B000:1
+B702:Clinical practice nursing:B000:1
+B710:Community nursing:B000:1
+B712:Health visiting:B000:1
+B713:School nursing:B000:1
+B714:Practice nursing:B000:1
+B720:Midwifery:B000:1
+B730:Children's nursing:B000:1
+B731:Neonatal care:B000:1
+B740:Adult nursing:B000:1
+B741:Older people nursing:B000:1
+B750:Dental nursing:B000:1
+B760:Mental health nursing:B000:1
+B761:Learning disability nursing:B000:1
+B770:Medical nursing:B000:1
+B771:Critical care nursing:B000:1
+B772:Surgical nursing:B000:1
+B773:Emergency nursing:B000:1
+B790:Nursing not elsewhere classified:B000:1
+B800:Medical technology:B000:1
+B810:Cardiography:B000:1
+B820:Radiology:B000:1
+B821:Radiography, diagnostic:B000:1
+B822:Radiography, therapeutic:B000:1
+B830:Biomechanics & prosthetics (non-clinical):B000:1
+B840:Dental technology:B000:1
+B850:Mortuary technology:B000:1
+B890:Medical technology not elsewhere classified:B000:1
+B900:Others in subjects allied to medicine:B000:1
+B910:Environmental health:B000:1
+B920:Occupational health:B000:1
+B930:Occupational therapy:B000:1
+B940:Counselling:B000:1
+B950:Paramedical science:B000:1
+B960:Physician assistant studies:B000:1
+B990:Subjects allied to medicine not elsewhere classified:B000:1
+B000:Subjects allied to medicine:subjects:0
+C100:Biology:C000:1
+C110:Applied biology:C000:1
+C111:Parasitology:C000:1
+C120:Behavioural biology:C000:1
+C130:Cell biology:C000:1
+C131:Applied cell biology:C000:1
+C140:Developmental/Reproductive biology:C000:1
+C141:Developmental biology:C000:1
+C142:Reproductive biology:C000:1
+C150:Environmental biology:C000:1
+C160:Marine/Freshwater biology:C000:1
+C161:Marine biology:C000:1
+C162:Freshwater biology:C000:1
+C170:Population biology:C000:1
+C180:Ecology:C000:1
+C181:Biodiversity:C000:1
+C182:Evolution:C000:1
+C183:Community ecology:C000:1
+C184:Conservation ecology:C000:1
+C185:Ecosystem ecology & land use:C000:1
+C186:Population ecology:C000:1
+C187:Ecotoxicology:C000:1
+C190:Biology not elsewhere classified:C000:1
+C191:Biometry:C000:1
+C200:Botany:C000:1
+C210:Applied botany:C000:1
+C220:Mycology:C000:1
+C230:Plant biotechnology:C000:1
+C240:Plant cell science:C000:1
+C250:Plant pathology:C000:1
+C260:Plant physiology:C000:1
+C270:Developmental & reproductive plant biology:C000:1
+C280:Systematic botany:C000:1
+C290:Botany not elsewhere classified:C000:1
+C300:Zoology:C000:1
+C310:Applied zoology:C000:1
+C320:Cell zoology:C000:1
+C330:Developmental & reproductive zoology:C000:1
+C340:Entomology:C000:1
+C350:Marine zoology:C000:1
+C360:Pest science:C000:1
+C380:Systematic zoology:C000:1
+C390:Zoology not elsewhere classified:C000:1
+C400:Genetics:C000:1
+C410:Applied genetics:C000:1
+C420:Human genetics:C000:1
+C430:Medical & veterinary genetics:C000:1
+C431:Medical genetics:C000:1
+C432:Veterinary genetics:C000:1
+C440:Molecular genetics:C000:1
+C441:Transcriptomics:C000:1
+C450:Genomics:C000:1
+C451:Functional genomics:C000:1
+C452:Genome organisation:C000:1
+C460:Genetic engineering:C000:1
+C470:Population genetics & evolution:C000:1
+C490:Genetics not elsewhere classified:C000:1
+C500:Microbiology:C000:1
+C510:Applied microbiology:C000:1
+C520:Medical & veterinary microbiology:C000:1
+C521:Medical microbiology:C000:1
+C522:Veterinary microbiology:C000:1
+C530:Bacteriology:C000:1
+C540:Virology:C000:1
+C550:Immunology:C000:1
+C570:Serology:C000:1
+C590:Microbiology not elsewhere classified:C000:1
+C600:Sport & exercise science:C000:1
+C610:Sport coaching:C000:1
+C620:Sport development:C000:1
+C630:Sport conditioning, rehabilitation & therapy:C000:1
+C640:Sport studies:C000:1
+C650:Sport technology:C000:1
+C690:Sport & exercise science not elsewhere classified:C000:1
+C700:Molecular biology, biophysics & biochemistry:C000:1
+C710:Applied molecular biology, biophysics & biochemistry:C000:1
+C720:Biological chemistry:C000:1
+C730:Metabolic biochemistry:C000:1
+C740:Medical & veterinary biochemistry:C000:1
+C741:Medical biochemistry:C000:1
+C742:Veterinary biochemistry:C000:1
+C750:Plant biochemistry:C000:1
+C760:Biomolecular science:C000:1
+C770:Biophysical science:C000:1
+C790:Molecular biology, biophysics & biochemistry not elsewhere classified:C000:1
+C800:Psychology:C000:1
+C810:Applied psychology:C000:1
+C811:Occupational psychology:C000:1
+C812:Educational psychology:C000:1
+C813:Sport psychology:C000:1
+C814:Organisational psychology:C000:1
+C815:Business psychology:C000:1
+C816:Forensic psychology:C000:1
+C820:Developmental psychology:C000:1
+C821:Child psychology:C000:1
+C822:The psychology of ageing:C000:1
+C830:Methodological & conceptual issues in psychology:C000:1
+C831:Research methods in psychology:C000:1
+C832:Quantitative psychology:C000:1
+C833:Qualitative psychology:C000:1
+C834:History of psychology:C000:1
+C835:Philosophy of psychology:C000:1
+C840:Psychology in health & medicine:C000:1
+C841:Health psychology:C000:1
+C842:Clinical psychology:C000:1
+C843:Counselling psychology:C000:1
+C844:Psychotherapy:C000:1
+C845:Clinical neuropsychology:C000:1
+C846:Community psychology:C000:1
+C847:Psychoanalytical studies:C000:1
+C848:Psychology of mental health:C000:1
+C850:Cognitive & affective psychology:C000:1
+C851:Psychological modelling:C000:1
+C852:Psychology of communication:C000:1
+C853:Psychology of memory & learning:C000:1
+C854:Psychology of perception:C000:1
+C855:Psychology of higher cognitive processes:C000:1
+C856:Experimental psychology:C000:1
+C857:Affective psychology:C000:1
+C858:Transpersonal psychology:C000:1
+C860:Psychobiology:C000:1
+C861:Cognitive neuroscience:C000:1
+C862:Affective neuroscience:C000:1
+C863:Psychopharmacology:C000:1
+C864:Evolutionary psychology:C000:1
+C865:Animal psychology:C000:1
+C870:Personality & individual differences:C000:1
+C871:Psychometrics:C000:1
+C872:Psychology of gender:C000:1
+C873:Cross-cultural psychology:C000:1
+C880:Social psychology:C000:1
+C881:Social cognition:C000:1
+C890:Psychology not elsewhere classified:C000:1
+C900:Others in Biological Sciences:C000:1
+C910:Applied biological sciences:C000:1
+C990:Biological sciences not elsewhere classified:C000:1
+C000:Biological sciences:subjects:0
+D100:Pre-clinical veterinary medicine:D000:1
+D190:Pre-clinical veterinary medicine not elsewhere classified:D000:1
+D200:Clinical veterinary medicine & dentistry:D000:1
+D210:Clinical veterinary medicine:D000:1
+D220:Clinical veterinary dentistry:D000:1
+D290:Clinical veterinary medicine & dentistry not elsewhere classified:D000:1
+D300:Animal science:D000:1
+D310:Veterinary nursing:D000:1
+D320:Animal health:D000:1
+D321:Animal anatomy:D000:1
+D322:Animal physiology:D000:1
+D323:Animal pathology:D000:1
+D324:Animal pharmacology:D000:1
+D325:Animal toxicology:D000:1
+D326:Animal pharmacy:D000:1
+D327:Animal nutrition:D000:1
+D328:Animal welfare:D000:1
+D330:Veterinary public health:D000:1
+D340:Overseas veterinary development:D000:1
+D390:Animal sciences not elsewhere classified:D000:1
+D400:Agriculture:D000:1
+D410:Arable & fruit farming:D000:1
+D411:Agricultural pests & diseases:D000:1
+D412:Crop physiology:D000:1
+D413:Crop nutrition:D000:1
+D414:Crop protection:D000:1
+D415:Crop production:D000:1
+D416:Glasshouse culture:D000:1
+D417:Amenity horticulture:D000:1
+D418:Exotic plants & crops:D000:1
+D420:Livestock:D000:1
+D421:Livestock husbandry:D000:1
+D422:Equine studies:D000:1
+D423:Poultry keeping:D000:1
+D424:Game keeping:D000:1
+D425:Exotic livestock:D000:1
+D430:Fish farming:D000:1
+D431:Fish husbandry:D000:1
+D432:Freshwater fish:D000:1
+D433:Saltwater fish:D000:1
+D434:Ornamental fish:D000:1
+D435:Aquaculture:D000:1
+D440:Rural estate management:D000:1
+D441:Farm management:D000:1
+D442:Game keeping management:D000:1
+D443:Water resource management:D000:1
+D444:Land management for recreation:D000:1
+D445:Biological heritage site management:D000:1
+D446:Wilderness management:D000:1
+D447:Environmental conservation:D000:1
+D448:Sustainable agricultural & landscape development:D000:1
+D450:International agriculture:D000:1
+D460:Organic farming:D000:1
+D461:Organic arable & fruit farming:D000:1
+D462:Organic livestock:D000:1
+D463:Organic fish farming:D000:1
+D470:Agricultural technology:D000:1
+D471:Agricultural machinery:D000:1
+D472:Agricultural irrigation & drainage:D000:1
+D490:Agriculture not elsewhere classified:D000:1
+D500:Forestry & arboriculture:D000:1
+D510:Trees & shrubs:D000:1
+D511:Forestry pests & diseases:D000:1
+D512:Tree physiology:D000:1
+D513:Tree nutrition:D000:1
+D514:Tree protection:D000:1
+D515:Tree production:D000:1
+D516:Timber production:D000:1
+D517:Community forestry:D000:1
+D520:International forestry:D000:1
+D530:Organic forestry:D000:1
+D540:Forestry technology:D000:1
+D541:Forestry irrigation & drainage:D000:1
+D590:Forestry not elsewhere classified:D000:1
+D600:Food & beverage studies:D000:1
+D610:Food science:D000:1
+D611:Meat science:D000:1
+D612:Cereal science:D000:1
+D613:Vegetable science:D000:1
+D614:Fruit science:D000:1
+D620:Food hygiene:D000:1
+D630:Food & beverage production:D000:1
+D631:Food & beverage manufacture:D000:1
+D632:Food & beverage processing:D000:1
+D633:Food & beverage technology:D000:1
+D634:Industrial baking:D000:1
+D635:Industrial brewing:D000:1
+D640:Food & beverages for the consumer:D000:1
+D641:Food & beverage packaging:D000:1
+D642:Food & beverage delivery:D000:1
+D690:Food & beverage studies not elsewhere classified:D000:1
+D700:Agricultural sciences:D000:1
+D710:Agricultural biology:D000:1
+D711:Agricultural microbiology:D000:1
+D720:Agricultural chemistry:D000:1
+D721:Agricultural biochemistry:D000:1
+D730:Agricultural botany:D000:1
+D740:Agricultural zoology:D000:1
+D750:Soil as an agricultural medium:D000:1
+D790:Agricultural sciences not elsewhere classified:D000:1
+D900:Others in veterinary sciences, agriculture & related subjects:D000:1
+D990:Veterinary sciences, agriculture & related subjects not elsewhere classified:D000:1
+D000:Veterinary sciences, agriculture & related subjects:subjects:0
+F100:Chemistry:F000:1
+F110:Applied chemistry:F000:1
+F111:Industrial chemistry:F000:1
+F112:Colour chemistry:F000:1
+F120:Inorganic chemistry:F000:1
+F130:Structural chemistry:F000:1
+F131:Crystallography:F000:1
+F140:Environmental chemistry:F000:1
+F141:Marine chemistry:F000:1
+F150:Medicinal chemistry:F000:1
+F151:Pharmaceutical chemistry:F000:1
+F160:Organic chemistry:F000:1
+F161:Organometallic chemistry:F000:1
+F162:Polymer chemistry:F000:1
+F163:Bio-organic chemistry:F000:1
+F164:Petrochemical chemistry:F000:1
+F165:Biomolecular chemistry:F000:1
+F170:Physical chemistry:F000:1
+F180:Analytical chemistry:F000:1
+F190:Chemistry not elsewhere classified:F000:1
+F200:Materials science:F000:1
+F290:Materials science not elsewhere classified:F000:1
+F300:Physics:F000:1
+F310:Applied physics:F000:1
+F311:Engineering physics:F000:1
+F320:Chemical physics:F000:1
+F321:Solid-state physics:F000:1
+F330:Environmental physics:F000:1
+F331:Atmospheric physics:F000:1
+F332:Marine physics:F000:1
+F340:Mathematical & theoretical physics:F000:1
+F341:Electromagnetism:F000:1
+F342:Quantum mechanics:F000:1
+F343:Computational physics:F000:1
+F350:Medical physics:F000:1
+F351:Radiation physics:F000:1
+F360:Optical physics:F000:1
+F361:Laser physics:F000:1
+F370:Nuclear & particle physics:F000:1
+F380:Acoustics:F000:1
+F390:Physics not elsewhere classified:F000:1
+F400:Forensic & archaeological sciences:F000:1
+F410:Forensic science:F000:1
+F420:Archaeological science:F000:1
+F490:Forensic & archaeological sciences not elsewhere classified:F000:1
+F500:Astronomy:F000:1
+F510:Astrophysics:F000:1
+F520:Space & planetary sciences:F000:1
+F521:Space science:F000:1
+F522:Planetary science:F000:1
+F530:Solar & solar terrestrial physics:F000:1
+F540:Astronomy observation:F000:1
+F550:Astronomy theory:F000:1
+F590:Astronomy not elsewhere classified:F000:1
+F600:Geology:F000:1
+F610:Applied geology:F000:1
+F611:Industrial geology:F000:1
+F612:Engineering geology:F000:1
+F620:Mining geology:F000:1
+F621:Exploration geology:F000:1
+F630:Geotechnology:F000:1
+F631:Marine geotechnology:F000:1
+F640:Earth science:F000:1
+F641:Palaeontology:F000:1
+F642:Geoscience:F000:1
+F643:Quaternary studies:F000:1
+F644:Hydrogeology:F000:1
+F645:Mantle & core processes:F000:1
+F646:Land-atmosphere interactions:F000:1
+F650:Geological oceanography:F000:1
+F660:Geophysics:F000:1
+F661:Exploration geophysics:F000:1
+F670:Geochemistry:F000:1
+F680:Geohazards:F000:1
+F681:Seismology & tectonics:F000:1
+F682:Vulcanology:F000:1
+F690:Geology not elsewhere classified:F000:1
+F700:Science of aquatic & terrestrial environments:F000:1
+F710:Marine sciences:F000:1
+F720:Hydrography:F000:1
+F730:Ocean sciences:F000:1
+F731:Ocean circulation:F000:1
+F732:Oceanographic survey & monitoring:F000:1
+F733:Land-ocean interaction:F000:1
+F734:Atmosphere-ocean interactions:F000:1
+F750:Environmental sciences:F000:1
+F751:Applied environmental sciences:F000:1
+F752:Hydrology:F000:1
+F753:Pollution control:F000:1
+F754:Biogeochemical cycles:F000:1
+F755:Environmental informatics:F000:1
+F756:Environmental physiology:F000:1
+F760:Climatology:F000:1
+F761:Meteorology:F000:1
+F762:Large-scale atmospheric dynamics & transport:F000:1
+F763:Boundary-layer meteorology:F000:1
+F764:Climate & climate change:F000:1
+F765:Radiative processes & effects:F000:1
+F770:Soil science:F000:1
+F780:Glaciology & cryospheric systems:F000:1
+F790:Science of aquatic & terrestrial environments not elsewhere classified:F000:1
+F800:Physical geographical sciences:F000:1
+F810:Environmental geography:F000:1
+F811:Biogeography:F000:1
+F840:Physical geography:F000:1
+F841:Maritime geography:F000:1
+F842:Geomorphology:F000:1
+F843:Topography:F000:1
+F844:Cartography:F000:1
+F845:Remote sensing:F000:1
+F846:Geographical information systems:F000:1
+F890:Physical geographical sciences not elsewhere classified:F000:1
+F900:Others in physical sciences:F000:1
+F990:Physical sciences not elsewhere classified:F000:1
+F000:Physical sciences:subjects:0
+G100:Mathematics:G000:1
+G110:Pure mathematics:G000:1
+G120:Applied mathematics:G000:1
+G121:Mechanics (mathematical):G000:1
+G130:Mathematical methods:G000:1
+G140:Numerical analysis:G000:1
+G150:Mathematical modelling:G000:1
+G160:Engineering/industrial mathematics:G000:1
+G170:Computational mathematics:G000:1
+G190:Mathematics not elsewhere classified:G000:1
+G200:Operational research:G000:1
+G290:Operational research not elsewhere classified:G000:1
+G300:Statistics:G000:1
+G310:Applied statistics:G000:1
+G311:Medical statistics:G000:1
+G320:Probability:G000:1
+G330:Stochastic processes:G000:1
+G340:Statistical modelling:G000:1
+G350:Mathematical statistics:G000:1
+G390:Statistics not elsewhere classified:G000:1
+G900:Others in mathematical sciences:G000:1
+H100:General engineering:H000:1
+H110:Integrated engineering:H000:1
+H120:Safety engineering:H000:1
+H121:Fire safety engineering:H000:1
+H122:Water quality control:H000:1
+H123:Public health engineering:H000:1
+H130:Computer-aided engineering:H000:1
+H131:Automated engineering design:H000:1
+H140:Mechanics:H000:1
+H141:Fluid mechanics:H000:1
+H142:Solid mechanics:H000:1
+H143:Structural mechanics:H000:1
+H150:Engineering design:H000:1
+H160:Bioengineering, biomedical engineering & clinical engineering:H000:1
+H161:Biomaterials:H000:1
+H162:Biomechanics (including fluid & solid mechanics):H000:1
+H163:Bioelectronics & bioelectricity:H000:1
+H164:Rehabilitation engineering:H000:1
+H165:Tissue engineering & regenerative medicine:H000:1
+H166:Imaging:H000:1
+H167:Biosensors:H000:1
+H168:Medical devices & instrumentation:H000:1
+H169:Neural engineering:H000:1
+H190:General engineering not elsewhere classified:H000:1
+H200:Civil engineering:H000:1
+H210:Structural engineering:H000:1
+H220:Environmental engineering:H000:1
+H221:Energy resources:H000:1
+H222:Coastal decay:H000:1
+H223:Environmental impact assessment:H000:1
+H230:Transport engineering:H000:1
+H231:Permanent way engineering:H000:1
+H232:Pavement engineering:H000:1
+H240:Surveying science:H000:1
+H241:General practice surveying:H000:1
+H242:Engineering surveying:H000:1
+H250:Geotechnical engineering:H000:1
+H290:Civil engineering not elsewhere classified:H000:1
+H300:Mechanical engineering:H000:1
+H310:Dynamics:H000:1
+H311:Thermodynamics:H000:1
+H320:Mechanisms & machines:H000:1
+H321:Turbine technology:H000:1
+H330:Automotive engineering:H000:1
+H331:Road vehicle engineering:H000:1
+H332:Rail vehicle engineering:H000:1
+H333:Ship propulsion engineering:H000:1
+H340:Acoustics & vibration:H000:1
+H341:Acoustics:H000:1
+H342:Vibration:H000:1
+H350:Offshore engineering:H000:1
+H360:Electromechanical engineering:H000:1
+H390:Mechanical engineering not elsewhere classified:H000:1
+H400:Aerospace engineering:H000:1
+H410:Aeronautical engineering:H000:1
+H411:Air passenger transport engineering:H000:1
+H412:Air freight transport engineering:H000:1
+H413:Air combat engineering:H000:1
+H420:Astronautical engineering:H000:1
+H430:Avionics:H000:1
+H440:Aerodynamics:H000:1
+H441:Flight mechanics:H000:1
+H450:Propulsion systems:H000:1
+H460:Aviation studies:H000:1
+H490:Aerospace engineering not elsewhere classified:H000:1
+H500:Naval architecture:H000:1
+H510:Shipbuilding:H000:1
+H511:Surface passenger ship building:H000:1
+H512:Surface freight ship building:H000:1
+H513:Surface combat ship building:H000:1
+H514:Submarine building:H000:1
+H520:Ship design:H000:1
+H521:Surface passenger ship design:H000:1
+H522:Surface freight ship design:H000:1
+H523:Surface combat ship design:H000:1
+H524:Submarine design:H000:1
+H590:Naval architecture not elsewhere classified:H000:1
+H600:Electronic & electrical engineering:H000:1
+H610:Electronic engineering:H000:1
+H611:Microelectronic engineering:H000:1
+H612:Integrated circuit design:H000:1
+H620:Electrical engineering:H000:1
+H630:Electrical power:H000:1
+H631:Electrical power generation:H000:1
+H632:Electrical power distribution:H000:1
+H640:Communications engineering:H000:1
+H641:Telecommunications engineering:H000:1
+H642:Broadcast engineering:H000:1
+H643:Satellite engineering:H000:1
+H644:Microwave engineering:H000:1
+H650:Systems engineering:H000:1
+H651:Digital circuit engineering:H000:1
+H652:Analogue circuit engineering:H000:1
+H660:Control systems:H000:1
+H661:Instrumentation control:H000:1
+H662:Control by light systems:H000:1
+H670:Robotics & cybernetics:H000:1
+H671:Robotics:H000:1
+H672:Cybernetics:H000:1
+H674:Virtual reality engineering:H000:1
+H680:Optoelectronic engineering:H000:1
+H690:Electronic & electrical engineering not elsewhere classified:H000:1
+H700:Production & manufacturing engineering:H000:1
+H710:Manufacturing systems engineering:H000:1
+H711:Manufacturing systems design:H000:1
+H712:Manufacturing installation systems:H000:1
+H713:Production processes:H000:1
+H714:Manufacturing systems maintenance:H000:1
+H720:Quality assurance engineering:H000:1
+H730:Mechatronics:H000:1
+H790:Production & manufacturing engineering not elsewhere classified:H000:1
+H800:Chemical, process & energy engineering:H000:1
+H810:Chemical engineering:H000:1
+H811:Biochemical engineering:H000:1
+H812:Pharmaceutical engineering:H000:1
+H820:Atomic engineering:H000:1
+H821:Nuclear engineering:H000:1
+H830:Chemical process engineering:H000:1
+H831:Bioprocess engineering:H000:1
+H840:Gas engineering:H000:1
+H850:Petroleum engineering:H000:1
+H890:Chemical, process & energy engineering not elsewhere classified:H000:1
+H900:Others in engineering:H000:1
+H990:Engineering not elsewhere classified:H000:1
+H000:Engineering:subjects:0
+I100:Computer science:I000:1
+I110:Computer architectures & operating systems:I000:1
+I111:Computer architectures:I000:1
+I112:Operating systems:I000:1
+I113:Displays & imaging:I000:1
+I114:High end computing:I000:1
+I115:Parallel computing:I000:1
+I120:Networks & communications:I000:1
+I130:Computational science foundations:I000:1
+I140:Human-computer interaction:I000:1
+I150:Multimedia computing science:I000:1
+I160:Internet:I000:1
+I161:e-business:I000:1
+I190:Computer science not elsewhere classified:I000:1
+I200:Information systems:I000:1
+I210:Information modelling:I000:1
+I220:Systems design methodologies:I000:1
+I230:Systems analysis & design:I000:1
+I240:Databases:I000:1
+I250:Systems auditing:I000:1
+I260:Data management:I000:1
+I270:Intelligent & expert systems:I000:1
+I290:Systems analysis & design not elsewhere classified:I000:1
+I300:Software engineering:I000:1
+I310:Software design:I000:1
+I320:Programming:I000:1
+I321:Procedural programming:I000:1
+I322:Object-oriented programming:I000:1
+I323:Declarative programming:I000:1
+I390:Software engineering not elsewhere classified:I000:1
+I400:Artificial intelligence:I000:1
+I410:Speech & natural language processing:I000:1
+I420:Knowledge representation:I000:1
+I430:Neural computing:I000:1
+I440:Computer vision:I000:1
+I450:Cognitive modelling:I000:1
+I460:Machine learning:I000:1
+I461:Automated reasoning:I000:1
+I490:Artificial intelligence not elsewhere classified:I000:1
+I500:Health informatics:I000:1
+I510:Health technologies:I000:1
+I520:Bioinformatics:I000:1
+I530:Tele healthcare:I000:1
+I590:Health informatics not elsewhere classified:I000:1
+I600:Games:I000:1
+I610:Computer games programming:I000:1
+I620:Computer games design:I000:1
+I630:Computer games graphics:I000:1
+I700:Computer generated visual & audio effects:I000:1
+I710:Computer generated imagery:I000:1
+I900:Others in Computer sciences:I000:1
+I990:Computer sciences not elsewhere classified:I000:1
+J100:Minerals technology:J000:1
+J110:Mining:J000:1
+J120:Quarrying:J000:1
+J130:Rock mechanics:J000:1
+J140:Minerals processing:J000:1
+J150:Minerals surveying:J000:1
+J160:Petrochemical technology:J000:1
+J190:Minerals technology not elsewhere classified:J000:1
+J200:Metallurgy:J000:1
+J210:Applied metallurgy:J000:1
+J220:Metallic fabrication:J000:1
+J221:Pattern making:J000:1
+J230:Corrosion technology:J000:1
+J290:Metallurgy not elsewhere classified:J000:1
+J300:Ceramics & glass:J000:1
+J310:Ceramics:J000:1
+J320:Glass technology:J000:1
+J390:Ceramics & glass not elsewhere classified:J000:1
+J400:Polymers & textiles:J000:1
+J410:Polymers technology:J000:1
+J411:Plastics:J000:1
+J420:Textiles technology:J000:1
+J421:Textile chemistry:J000:1
+J422:Dying & colouring of textiles:J000:1
+J430:Leather technology:J000:1
+J431:Tanning:J000:1
+J440:Clothing production:J000:1
+J441:Machine knitting:J000:1
+J442:Commercial tailoring:J000:1
+J443:Pattern cutting:J000:1
+J444:Millinery:J000:1
+J445:Footwear production:J000:1
+J490:Polymers & textiles not elsewhere classified:J000:1
+J500:Materials technology not otherwise specified:J000:1
+J510:Materials technology:J000:1
+J511:Engineering materials:J000:1
+J512:Paper technology:J000:1
+J513:Furniture technology:J000:1
+J520:Printing:J000:1
+J521:Offset lithography:J000:1
+J522:Photo-lithography:J000:1
+J523:Reprographic techniques:J000:1
+J524:Screen process printing:J000:1
+J530:Gemmology:J000:1
+J590:Materials technology not elsewhere classified:J000:1
+J600:Maritime technology:J000:1
+J610:Marine technology:J000:1
+J611:Marine navigation:J000:1
+J612:Marine radar:J000:1
+J613:Marine radio:J000:1
+J614:Marine plumbing:J000:1
+J690:Maritime technology not elsewhere classified:J000:1
+J700:Biotechnology:J000:1
+J710:Plant biotechnology (crops, trees, shrubs etc.):J000:1
+J720:Animal biotechnology:J000:1
+J730:Environmental biotechnology:J000:1
+J740:Industrial biotechnology:J000:1
+J750:Medical biotechnology:J000:1
+J790:Biotechnology not elsewhere classified:J000:1
+J900:Others in technology:J000:1
+J910:Energy technologies:J000:1
+J920:Ergonomics:J000:1
+J930:Audio technology:J000:1
+J931:Music recording:J000:1
+J940:Machinery maintenance:J000:1
+J941:Office machinery maintenance:J000:1
+J942:Industrial machinery maintenance:J000:1
+J950:Musical instrument technology:J000:1
+J960:Transport logistics:J000:1
+J970:Emergency & disaster technologies:J000:1
+J990:Technologies not elsewhere classified:J000:1
+J000:Technologies:subjects:0
+K100:Architecture:K000:1
+K110:Architectural design theory:K000:1
+K120:Interior architecture:K000:1
+K130:Architectural technology:K000:1
+K190:Architecture not elsewhere classified:K000:1
+K200:Building:K000:1
+K210:Building technology:K000:1
+K220:Construction management:K000:1
+K230:Building surveying:K000:1
+K240:Quantity surveying:K000:1
+K250:Conservation of buildings:K000:1
+K251:Property development:K000:1
+K290:Building not elsewhere classified:K000:1
+K300:Landscape & garden design:K000:1
+K310:Landscape architecture:K000:1
+K320:Landscape studies:K000:1
+K330:Landscape design:K000:1
+K340:Garden design:K000:1
+K341:Garden horticulture:K000:1
+K390:Landscape & garden design not elsewhere classified:K000:1
+K400:Planning (urban, rural & regional):K000:1
+K410:Regional planning:K000:1
+K420:Urban & rural planning:K000:1
+K421:Urban planning:K000:1
+K422:Rural planning:K000:1
+K430:Planning studies:K000:1
+K440:Urban studies:K000:1
+K450:Housing:K000:1
+K460:Transport planning:K000:1
+K490:Planning (urban, rural & regional) not elsewhere classified:K000:1
+K900:Others in architecture, building & planning:K000:1
+K990:Architecture, building & planning not elsewhere classified:K000:1
+K000:Architecture, building & planning:subjects:0
+L100:Economics:L000:1
+L110:Applied economics:L000:1
+L111:Financial economics:L000:1
+L112:Agricultural economics:L000:1
+L113:Economic policy:L000:1
+L120:Microeconomics:L000:1
+L130:Macroeconomics:L000:1
+L140:Econometrics:L000:1
+L150:Political economics:L000:1
+L160:International economics:L000:1
+L170:Economic systems:L000:1
+L171:Capitalism:L000:1
+L172:Monetarism:L000:1
+L173:Keynesianism:L000:1
+L174:Collectivism:L000:1
+L190:Economics not elsewhere classified:L000:1
+L200:Politics:L000:1
+L210:Political theories:L000:1
+L211:Liberalism:L000:1
+L212:Conservatism:L000:1
+L213:Socialism:L000:1
+L214:Nationalism:L000:1
+L215:Fascism:L000:1
+L216:Feminism:L000:1
+L217:Environmentalism:L000:1
+L218:Anarchism:L000:1
+L220:Political systems:L000:1
+L221:Autocracy:L000:1
+L222:Democracy:L000:1
+L223:Plutocracy:L000:1
+L224:Oligarchy:L000:1
+L230:UK government/parliamentary studies:L000:1
+L231:Public administration:L000:1
+L232:UK constitutional studies:L000:1
+L240:International politics:L000:1
+L241:European Union politics:L000:1
+L242:Commonwealth politics:L000:1
+L243:Politics of a specific country/region:L000:1
+L244:International constitutional studies:L000:1
+L250:International relations:L000:1
+L251:Strategic studies:L000:1
+L252:War & peace studies:L000:1
+L253:International criminology:L000:1
+L260:Comparative politics:L000:1
+L290:Politics not elsewhere classified:L000:1
+L300:Sociology:L000:1
+L310:Applied sociology:L000:1
+L311:Applied criminology:L000:1
+L312:Victimology:L000:1
+L320:Gender studies:L000:1
+L321:Women's studies:L000:1
+L322:Men's studies:L000:1
+L330:Ethnic studies:L000:1
+L340:Disability in society:L000:1
+L350:Religion in society:L000:1
+L360:Socio-economics:L000:1
+L370:Social theory:L000:1
+L371:Social hierarchy:L000:1
+L380:Political sociology:L000:1
+L390:Sociology not elsewhere classified:L000:1
+L391:Sociology of science & technology:L000:1
+L400:Social policy:L000:1
+L410:UK social policy:L000:1
+L420:International social policy:L000:1
+L430:Public policy:L000:1
+L431:Health policy:L000:1
+L432:Welfare policy:L000:1
+L433:Education policy:L000:1
+L434:Transport policy:L000:1
+L435:Security policy:L000:1
+L436:Emergency services policy:L000:1
+L437:Criminal justice policy:L000:1
+L490:Social policy not elsewhere classified:L000:1
+L500:Social work:L000:1
+L510:Health & welfare:L000:1
+L520:Child care:L000:1
+L530:Youth work:L000:1
+L540:Community work:L000:1
+L541:Community justice:L000:1
+L550:Careers guidance:L000:1
+L560:Probation/after-care:L000:1
+L590:Social work not elsewhere classified:L000:1
+L600:Anthropology:L000:1
+L610:Social & cultural anthropology:L000:1
+L611:Criminological theory:L000:1
+L620:Physical & biological anthropology:L000:1
+L690:Anthropology not elsewhere classified:L000:1
+L700:Human & social geography:L000:1
+L710:Human & social geography by area:L000:1
+L711:Human & social geography of Europe:L000:1
+L712:Human & social geography of Asia:L000:1
+L713:Human & social geography of Africa:L000:1
+L714:Human & social geography of Australasia:L000:1
+L715:Human & social geography of the Americas:L000:1
+L716:Human & social geography of the Arctic/Antarctic:L000:1
+L720:Human & social geography by topic:L000:1
+L721:Economic geography:L000:1
+L722:Urban geography:L000:1
+L723:Political geography:L000:1
+L724:Transport geography:L000:1
+L725:Historical geography:L000:1
+L726:Cultural geography:L000:1
+L727:Agricultural geography:L000:1
+L728:Human Demography:L000:1
+L790:Human & social geography not elsewhere classified:L000:1
+L800:Development studies:L000:1
+L900:Others in social studies:L000:1
+L990:Social studies not elsewhere classified:L000:1
+L000:Social studies:subjects:0
+M100:Law by area:M000:1
+M110:UK legal systems:M000:1
+M111:English law:M000:1
+M112:Welsh law:M000:1
+M113:Northern Irish law:M000:1
+M114:Scottish law:M000:1
+M120:European Union law:M000:1
+M130:Public international law:M000:1
+M140:Comparative law:M000:1
+M190:Law by area not elsewhere classified:M000:1
+M200:Law by topic:M000:1
+M210:Public law:M000:1
+M211:Criminal law:M000:1
+M220:Private law:M000:1
+M221:Business & commercial law:M000:1
+M222:Contract law:M000:1
+M223:Property law:M000:1
+M224:Torts:M000:1
+M240:Jurisprudence:M000:1
+M250:Legal practice:M000:1
+M260:Medical law:M000:1
+M270:Sociology of law:M000:1
+M290:Law by topic not elsewhere classified:M000:1
+M900:Others in law:M000:1
+M990:Law not elsewhere classified:M000:1
+M000:Law:subjects:0
+N100:Business studies:N000:1
+N110:European business studies:N000:1
+N120:International business studies:N000:1
+N190:Business studies not elsewhere classified:N000:1
+N200:Management studies:N000:1
+N210:Management techniques:N000:1
+N211:Strategic management:N000:1
+N212:Creative management:N000:1
+N213:Project management:N000:1
+N214:Change management:N000:1
+N215:Organisational development:N000:1
+N220:Institutional management:N000:1
+N223:Domestic management:N000:1
+N224:Management & organisation of education:N000:1
+N225:Criminal justice management:N000:1
+N230:Land & property management:N000:1
+N231:Land management:N000:1
+N232:Property management:N000:1
+N234:Property valuation & auctioneering:N000:1
+N240:Retail management:N000:1
+N250:Emergency & disaster management:N000:1
+N251:Emergency services management:N000:1
+N252:Disaster management:N000:1
+N290:Management studies not elsewhere classified:N000:1
+N300:Finance:N000:1
+N310:Banking:N000:1
+N320:Investment & insurance:N000:1
+N321:Investment:N000:1
+N322:Insurance:N000:1
+N323:Actuarial science:N000:1
+N330:Taxation:N000:1
+N340:Financial management:N000:1
+N341:Financial risk:N000:1
+N390:Finance not elsewhere classified:N000:1
+N400:Accounting:N000:1
+N410:Accountancy:N000:1
+N411:Cost & management accountancy:N000:1
+N412:Public accountancy:N000:1
+N413:Book keeping:N000:1
+N420:Accounting theory:N000:1
+N421:Auditing of accounts:N000:1
+N422:Financial reporting:N000:1
+N490:Accounting not elsewhere classified:N000:1
+N500:Marketing:N000:1
+N510:Market research:N000:1
+N520:Sales management:N000:1
+N530:Distribution:N000:1
+N550:International marketing:N000:1
+N560:Promotion & advertising:N000:1
+N561:Advertising:N000:1
+N562:Corporate image:N000:1
+N563:Sponsorship:N000:1
+N590:Marketing not elsewhere classified:N000:1
+N600:Human resource management:N000:1
+N611:Industrial relations:N000:1
+N612:Staff development:N000:1
+N613:Training methods:N000:1
+N614:Recruitment methods:N000:1
+N620:Health & safety issues:N000:1
+N690:Human resources management not elsewhere classified:N000:1
+N700:Office skills:N000:1
+N710:Office administration:N000:1
+N720:Secretarial & typing skills:N000:1
+N721:Audio typing:N000:1
+N722:Shorthand & shorthand transcription:N000:1
+N790:Office skills not elsewhere classified:N000:1
+N800:Hospitality, leisure, sport, tourism & transport:N000:1
+N810:Travel management:N000:1
+N820:Event management:N000:1
+N830:Tourism:N000:1
+N831:Tourism studies:N000:1
+N832:Tourism management:N000:1
+N850:Transport studies:N000:1
+N851:Land travel:N000:1
+N852:Sea travel:N000:1
+N853:Air travel:N000:1
+N860:Hospitality:N000:1
+N861:Hospitality studies:N000:1
+N862:Hospitality management:N000:1
+N870:Recreation & leisure studies:N000:1
+N871:Spa management:N000:1
+N872:Salon management:N000:1
+N880:Sport management:N000:1
+N890:Hospitality, leisure, sport, tourism & transport not elsewhere classified:N000:1
+N900:Others in business & administrative studies:N000:1
+N990:Business & administrative studies not elsewhere classified:N000:1
+N000:Business & administrative studies:subjects:0
+P100:Information services:P000:1
+P110:Information management:P000:1
+P120:Librarianship:P000:1
+P121:Library studies:P000:1
+P130:Curatorial studies:P000:1
+P131:Museum studies:P000:1
+P132:Archive studies:P000:1
+P190:Information services not elsewhere classified:P000:1
+P200:Publicity studies:P000:1
+P210:Public relations:P000:1
+P290:Publicity studies not elsewhere classified:P000:1
+P300:Media studies:P000:1
+P301:Television studies:P000:1
+P302:Radio studies:P000:1
+P303:Film studies:P000:1
+P304:Electronic media studies:P000:1
+P305:Paper-based media studies:P000:1
+P310:Media production:P000:1
+P311:Television production:P000:1
+P312:Radio production:P000:1
+P313:Film production:P000:1
+P390:Media studies not elsewhere classified:P000:1
+P400:Publishing:P000:1
+P410:Electronic publishing:P000:1
+P411:Publishing on audio/video tape:P000:1
+P412:Publishing on CD-ROM:P000:1
+P413:Publishing via the World Wide Web:P000:1
+P420:Multimedia publishing:P000:1
+P430:Interactive publishing:P000:1
+P490:Publishing not elsewhere classified:P000:1
+P500:Journalism:P000:1
+P510:Factual reporting:P000:1
+P590:Journalism not elsewhere classified:P000:1
+P900:Others in mass communications & documentation:P000:1
+P990:Mass communications & documentation not elsewhere classified:P000:1
+P000:Mass communications & documentation:subjects:0
+Q100:Linguistics:Q000:1
+Q110:Applied linguistics:Q000:1
+Q120:Historical linguistics:Q000:1
+Q130:Phonetics & phonology:Q000:1
+Q131:Phonetics:Q000:1
+Q132:Phonology:Q000:1
+Q140:Sociolinguistics:Q000:1
+Q150:Psycholinguistics:Q000:1
+Q160:British Sign Language:Q000:1
+Q190:Linguistics not elsewhere classified:Q000:1
+Q200:Comparative literary studies:Q000:1
+Q210:Literature in translation:Q000:1
+Q220:Literature in its original language:Q000:1
+Q290:Comparative literary studies not elsewhere classified:Q000:1
+Q300:English studies:Q000:1
+Q310:English language:Q000:1
+Q320:English literature:Q000:1
+Q321:English literature by period:Q000:1
+Q322:English literature by author:Q000:1
+Q323:English literature by topic:Q000:1
+Q330:English as a second language:Q000:1
+Q340:English literature written as a second language:Q000:1
+Q350:Scots language:Q000:1
+Q360:Scots literature:Q000:1
+Q370:Irish language:Q000:1
+Q380:Irish literature:Q000:1
+Q390:English studies not elsewhere classified:Q000:1
+Q400:Ancient language studies:Q000:1
+Q410:Ancient Egyptian:Q000:1
+Q411:Coptic:Q000:1
+Q420:Classical Arabic:Q000:1
+Q430:Akkadian:Q000:1
+Q440:Sumerian:Q000:1
+Q450:Sanskrit:Q000:1
+Q460:Prakrit:Q000:1
+Q470:Aramaic:Q000:1
+Q480:Hebrew:Q000:1
+Q490:Ancient language studies not elsewhere classified:Q000:1
+Q500:Celtic studies:Q000:1
+Q510:Ancient Celtic studies:Q000:1
+Q520:Modern Celtic studies:Q000:1
+Q521:Goidelic group of languages:Q000:1
+Q522:Brythonic group of languages:Q000:1
+Q530:Scottish Gaelic:Q000:1
+Q531:Scottish Gaelic literature:Q000:1
+Q540:Irish Gaelic:Q000:1
+Q541:Irish Gaelic literature:Q000:1
+Q550:Manx:Q000:1
+Q551:Manx literature:Q000:1
+Q560:Welsh:Q000:1
+Q561:Welsh literature:Q000:1
+Q570:Cornish:Q000:1
+Q571:Cornish literature:Q000:1
+Q580:Breton:Q000:1
+Q581:Breton literature:Q000:1
+Q590:Celtic studies not elsewhere classified:Q000:1
+Q600:Latin studies:Q000:1
+Q610:Latin language:Q000:1
+Q611:Church Latin:Q000:1
+Q612:Medieval Latin:Q000:1
+Q620:Latin literature:Q000:1
+Q630:Latin literature in translation:Q000:1
+Q690:Latin studies not elsewhere classified:Q000:1
+Q700:Classical Greek studies:Q000:1
+Q710:Classical Greek language:Q000:1
+Q711:Classical Church Greek:Q000:1
+Q712:Late Greek:Q000:1
+Q720:Classical Greek literature:Q000:1
+Q730:Classical Greek literature in translation:Q000:1
+Q790:Classical Greek studies not elsewhere classified:Q000:1
+Q800:Classical studies:Q000:1
+Q810:Classical reception:Q000:1
+Q890:Classical studies not elsewhere classified:Q000:1
+Q900:Others in linguistics, classics & related subjects:Q000:1
+Q910:Translation studies:Q000:1
+Q920:Translation theory:Q000:1
+Q990:Linguistics, classics & related subjects not elsewhere classified:Q000:1
+Q000:Linguistics, classics & related subjects:subjects:0
+R100:French studies:R000:1
+R110:French language:R000:1
+R120:French literature:R000:1
+R130:French society & culture:R000:1
+R190:French studies not elsewhere classified:R000:1
+R200:German studies:R000:1
+R210:German language:R000:1
+R220:German literature:R000:1
+R230:German society & culture:R000:1
+R290:German studies not elsewhere classified:R000:1
+R300:Italian studies:R000:1
+R310:Italian language:R000:1
+R320:Italian literature:R000:1
+R330:Italian society & culture:R000:1
+R390:Italian studies not elsewhere classified:R000:1
+R400:Spanish studies:R000:1
+R410:Spanish language:R000:1
+R411:Spanish languages in other countries:R000:1
+R420:Spanish literature:R000:1
+R430:Spanish society & culture:R000:1
+R490:Spanish studies not elsewhere classified:R000:1
+R500:Portuguese studies:R000:1
+R510:Portuguese language:R000:1
+R511:Portuguese languages in other countries:R000:1
+R520:Portuguese literature:R000:1
+R530:Portuguese society & culture:R000:1
+R590:Portuguese studies not elsewhere classified:R000:1
+R600:Scandinavian studies:R000:1
+R610:Scandinavian languages:R000:1
+R611:Swedish language:R000:1
+R612:Norwegian language:R000:1
+R613:Finnish language:R000:1
+R614:Danish language:R000:1
+R620:Scandinavian literature:R000:1
+R621:Swedish literature:R000:1
+R622:Norwegian literature:R000:1
+R623:Finnish literature:R000:1
+R624:Danish literature:R000:1
+R630:Scandinavian society & culture:R000:1
+R631:Swedish society & culture:R000:1
+R632:Norwegian society & culture:R000:1
+R633:Finnish society & culture:R000:1
+R634:Danish society & culture:R000:1
+R690:Scandinavian studies not elsewhere classified:R000:1
+R700:Russian & East European studies:R000:1
+R701:Russian studies:R000:1
+R702:Czech studies:R000:1
+R703:Polish studies:R000:1
+R704:Belarusian studies:R000:1
+R705:Bulgarian studies:R000:1
+R706:Hungarian studies:R000:1
+R707:Romanian studies:R000:1
+R708:Slovak studies:R000:1
+R709:Ukrainian studies:R000:1
+R710:Russian & East European languages:R000:1
+R711:Russian language:R000:1
+R712:Polish language:R000:1
+R713:Czech language:R000:1
+R720:Russian & east European Literature:R000:1
+R721:Russian literature:R000:1
+R722:Polish literature:R000:1
+R723:Czech literature:R000:1
+R730:Russian & east European society & culture:R000:1
+R731:Russian society & culture:R000:1
+R732:Polish society & culture:R000:1
+R733:Czech society & culture:R000:1
+R790:Russian & east European studies not elsewhere classified:R000:1
+R800:European studies:R000:1
+R900:Others in European languages, literature & related subjects:R000:1
+R910:Other European languages:R000:1
+R911:Dutch:R000:1
+R912:Flemish:R000:1
+R920:Other European literature:R000:1
+R930:Other European societies & cultures:R000:1
+R990:European languages, literature & related subjects not elsewhere classified:R000:1
+R000:European languages, literature & related subjects:subjects:0
+T100:Chinese studies:T000:1
+T110:Chinese language studies:T000:1
+T120:Chinese literature studies:T000:1
+T130:Chinese society & culture studies:T000:1
+T190:Chinese studies not elsewhere classified:T000:1
+T200:Japanese studies:T000:1
+T210:Japanese language studies:T000:1
+T220:Japanese literature studies:T000:1
+T230:Japanese society & culture studies:T000:1
+T290:Japanese studies not elsewhere classified:T000:1
+T300:South Asian studies:T000:1
+T310:South Asian language studies:T000:1
+T311:Indian language studies:T000:1
+T312:Pakistani language studies:T000:1
+T313:Sri Lankan language studies:T000:1
+T314:Bangladeshi language studies:T000:1
+T315:Nepali language studies:T000:1
+T320:South Asian literature studies:T000:1
+T321:Indian literature studies:T000:1
+T322:Pakistani literature studies:T000:1
+T323:Sri Lankan literature studies:T000:1
+T324:Bangladeshi literature studies:T000:1
+T325:Nepali literature studies:T000:1
+T330:South Asian society & culture studies:T000:1
+T331:Indian society & culture studies:T000:1
+T332:Pakistani society & culture studies:T000:1
+T333:Sri Lankan society & culture studies:T000:1
+T334:Bangladeshi society & culture studies:T000:1
+T335:Nepali society & culture studies:T000:1
+T390:South Asian studies not elsewhere classified:T000:1
+T400:Other Asian studies:T000:1
+T410:Other Asian language studies:T000:1
+T411:East Asian language studies:T000:1
+T412:South East Asian language studies:T000:1
+T420:Other Asian literature studies:T000:1
+T421:East Asian literature studies:T000:1
+T422:South East Asian literature studies:T000:1
+T430:Other Asian society & culture studies:T000:1
+T431:East Asian society & culture studies:T000:1
+T432:South East Asian society & culture studies:T000:1
+T490:Other Asian studies not elsewhere classified:T000:1
+T500:African studies:T000:1
+T510:African language studies:T000:1
+T511:Eastern African language studies:T000:1
+T512:Central African language studies:T000:1
+T513:Northern African language studies:T000:1
+T514:Southern African language studies:T000:1
+T515:Western African language studies:T000:1
+T520:African literature studies:T000:1
+T521:Eastern African literature studies:T000:1
+T522:Central African literature studies:T000:1
+T523:Northern African literature studies:T000:1
+T524:Southern African literature studies:T000:1
+T525:Western African literature studies:T000:1
+T530:African society & culture studies:T000:1
+T531:Eastern African society & culture studies:T000:1
+T532:Central African society & culture studies:T000:1
+T533:Northern African society & culture studies:T000:1
+T534:Southern African society & culture studies:T000:1
+T535:Western African society & culture studies:T000:1
+T590:African studies not elsewhere classified:T000:1
+T600:Modern Middle Eastern studies:T000:1
+T610:Modern Middle Eastern language studies:T000:1
+T611:Arabic language studies:T000:1
+T612:Modern Standard Arabic language studies:T000:1
+T613:Persian language studies:T000:1
+T614:Modern Hebrew language studies:T000:1
+T615:Kurdish language studies:T000:1
+T616:Turkish language studies:T000:1
+T620:Modern Middle Eastern literature studies:T000:1
+T621:Arabic literature studies:T000:1
+T623:Persian literature studies:T000:1
+T624:Modern Hebrew literature studies:T000:1
+T625:Kurdish literature studies:T000:1
+T626:Turkish literature studies:T000:1
+T630:Modern Middle Eastern society & culture studies:T000:1
+T631:Arab society & culture studies:T000:1
+T633:Persian society & culture studies:T000:1
+T634:Modern Hebrew society & culture studies:T000:1
+T635:Kurdish society & culture studies:T000:1
+T636:Turkish society & culture studies:T000:1
+T690:Modern Middle Eastern studies not elsewhere classified:T000:1
+T700:American studies:T000:1
+T710:American language studies:T000:1
+T711:Latin American language studies:T000:1
+T712:United States language studies:T000:1
+T713:Canadian language studies:T000:1
+T714:Caribbean language studies:T000:1
+T720:American literature studies:T000:1
+T721:Latin American literature studies:T000:1
+T722:United States literature studies:T000:1
+T723:Canadian literature studies:T000:1
+T724:Caribbean literature studies:T000:1
+T730:American society & culture studies:T000:1
+T731:Latin American society & culture studies:T000:1
+T732:United States society & culture studies:T000:1
+T733:Canadian society & culture studies:T000:1
+T734:Caribbean society & culture studies:T000:1
+T790:American studies not elsewhere classified:T000:1
+T800:Australasian studies:T000:1
+T810:Australasian language studies:T000:1
+T820:Australasian literature studies:T000:1
+T830:Australasian society & culture studies:T000:1
+T890:Australasian studies not elsewhere classified:T000:1
+T900:Others in Eastern, Asiatic, African, American & Australasian languages, literature & related subjects:T000:1
+T910:Others in Eastern, Asiatic, African, American & Australasian languages:T000:1
+T920:Others in Eastern, Asiatic, African, American & Australasian literature:T000:1
+T930:Others in Eastern, Asiatic, African, American & Australasian societies & culture:T000:1
+T990:Eastern, Asiatic, African, American & Australasian languages, literature:T000:1
+T000:Eastern, Asiatic, African, American & Australasian languages, literature & related subjects:subjects:0
+V100:History by period:V000:1
+V140:Modern history:V000:1
+V141:Modern history 1500-1599:V000:1
+V142:Modern history 1600-1699:V000:1
+V143:Modern history 1700-1799:V000:1
+V144:Modern history 1800-1899:V000:1
+V145:Modern history 1900-1919:V000:1
+V146:Modern history 1920-1949:V000:1
+V147:Modern history 1950-1999:V000:1
+V148:Modern history 2000-2099:V000:1
+V150:Medieval history:V000:1
+V160:Ancient history:V000:1
+V161:Late Antique history:V000:1
+V190:History by period not elsewhere classified:V000:1
+V200:History by area:V000:1
+V210:British history:V000:1
+V211:Irish history:V000:1
+V212:Scottish history:V000:1
+V213:Welsh history:V000:1
+V214:English history:V000:1
+V220:European history:V000:1
+V221:French history:V000:1
+V222:German history:V000:1
+V223:Italian history:V000:1
+V224:Iberian history:V000:1
+V225:Russian history:V000:1
+V230:American history:V000:1
+V231:Canadian history:V000:1
+V232:USA history:V000:1
+V233:South American history:V000:1
+V234:Central American history:V000:1
+V240:Asian history:V000:1
+V241:Chinese history:V000:1
+V242:Indian history:V000:1
+V243:South East Asian history:V000:1
+V244:Byzantine History:V000:1
+V250:African history:V000:1
+V251:North African history:V000:1
+V252:Central African history:V000:1
+V253:Southern African history:V000:1
+V254:East African history:V000:1
+V255:West African history:V000:1
+V260:Australasian history:V000:1
+V261:Australian history:V000:1
+V262:New Zealand history:V000:1
+V270:World history:V000:1
+V271:International history:V000:1
+V290:History by area not elsewhere classified:V000:1
+V300:History by topic:V000:1
+V310:Economic history:V000:1
+V320:Social history:V000:1
+V321:Local history:V000:1
+V322:Oral history:V000:1
+V323:Family history:V000:1
+V324:Crime history:V000:1
+V330:History of religions:V000:1
+V340:Intellectual history:V000:1
+V350:History of art:V000:1
+V360:History of architecture:V000:1
+V370:History of design:V000:1
+V380:History of science:V000:1
+V381:History of physics:V000:1
+V382:History of chemistry:V000:1
+V383:History of mathematics:V000:1
+V384:History of medicine:V000:1
+V390:History by topic not elsewhere classified:V000:1
+V391:Military history:V000:1
+V400:Archaeology:V000:1
+V410:Egyptology:V000:1
+V420:Stone Age:V000:1
+V430:Bronze Age:V000:1
+V440:Iron Age:V000:1
+V450:Archaeological conservation:V000:1
+V460:Archaeological techniques:V000:1
+V470:Classical art & archaeology:V000:1
+V471:Roman art & archaeology:V000:1
+V472:Greek art & archaeology:V000:1
+V490:Archaeology not elsewhere classified:V000:1
+V500:Philosophy:V000:1
+V510:Metaphysics:V000:1
+V511:Epistemology:V000:1
+V520:Moral philosophy:V000:1
+V530:Scholastic philosophy:V000:1
+V540:Social philosophy:V000:1
+V550:Philosophy of science:V000:1
+V560:Mental philosophy:V000:1
+V590:Philosophy not elsewhere classified:V000:1
+V600:Theology & religious studies:V000:1
+V610:Theology:V000:1
+V620:Religious studies:V000:1
+V621:Christian studies:V000:1
+V622:Islamic studies:V000:1
+V623:Judaism:V000:1
+V624:Hinduism:V000:1
+V625:Buddhism:V000:1
+V626:Other Asian religious studies:V000:1
+V627:Comparative religious studies:V000:1
+V630:Divinity:V000:1
+V640:Religious writings:V000:1
+V641:The Bible & Christian texts:V000:1
+V642:The Qur'an & Islamic texts:V000:1
+V643:The Torah & Judaic texts:V000:1
+V644:Asian religious texts:V000:1
+V645:Comparative religious texts:V000:1
+V650:Pastoral studies:V000:1
+V690:Theology & religious studies not elsewhere classified:V000:1
+V700:Heritage studies:V000:1
+V710:Heritage theory:V000:1
+V720:Heritage site management:V000:1
+V730:Natural heritage:V000:1
+V731:Coastal heritage management:V000:1
+V740:Visitor management including interpretation:V000:1
+V750:Oral history, heritage & genealogy:V000:1
+V900:Others in historical & philosophical studies:V000:1
+V990:Historical & philosophical studies not elsewhere classified:V000:1
+V000:Historical & philosophical studies:subjects:0
+W100:Fine art:W000:1
+W110:Drawing:W000:1
+W120:Painting:W000:1
+W130:Sculpture:W000:1
+W140:Printmaking:W000:1
+W150:Calligraphy:W000:1
+W160:Fine art conservation:W000:1
+W190:Fine art not elsewhere classified:W000:1
+W200:Design studies:W000:1
+W210:Graphic design:W000:1
+W211:Typography:W000:1
+W212:Multimedia design:W000:1
+W213:Visual communication:W000:1
+W220:Illustration:W000:1
+W230:Clothing/fashion design:W000:1
+W231:Textile design:W000:1
+W240:Industrial/product design:W000:1
+W250:Interior design:W000:1
+W260:Furniture design:W000:1
+W270:Ceramics design:W000:1
+W280:Interactive & electronic design:W000:1
+W290:Design studies not elsewhere classified:W000:1
+W300:Music:W000:1
+W310:Musicianship/performance studies:W000:1
+W311:Instrumental or vocal performance:W000:1
+W312:Musical theatre:W000:1
+W313:Conducting:W000:1
+W314:Jazz performance:W000:1
+W315:Popular music performance:W000:1
+W316:Electronic/electro-acoustic music performance:W000:1
+W317:Historical performance practice:W000:1
+W320:Music education/teaching:W000:1
+W330:History of music:W000:1
+W340:Types of music:W000:1
+W341:Popular music:W000:1
+W342:Film music/screen music:W000:1
+W343:Jazz:W000:1
+W344:Folk music:W000:1
+W345:Opera:W000:1
+W346:Sacred music:W000:1
+W350:Musicology:W000:1
+W351:Ethnomusicology/world music:W000:1
+W352:Community music:W000:1
+W353:Music & gender:W000:1
+W354:Philosophy, aesthetics & criticism of music:W000:1
+W355:Music psychology:W000:1
+W356:Music theory & analysis:W000:1
+W357:Sociology of music:W000:1
+W360:Musical instrument history:W000:1
+W370:Music technology & industry:W000:1
+W371:Sound design/commercial music recording:W000:1
+W372:Creative music technology:W000:1
+W373:Electro-acoustic studies:W000:1
+W374:Music production:W000:1
+W375:Music management/music industry management/arts management:W000:1
+W376:Music marketing:W000:1
+W380:Composition:W000:1
+W381:Electracoustic composition/acousmatic composition:W000:1
+W382:Sonic arts:W000:1
+W383:Electronic music:W000:1
+W384:Applied music/musicianship:W000:1
+W385:Commercial music composition:W000:1
+W386:Multimedia music composition:W000:1
+W387:Jazz composition:W000:1
+W388:Popular music composition:W000:1
+W390:Music not elsewhere classified:W000:1
+W400:Drama:W000:1
+W410:Acting:W000:1
+W420:Directing for theatre:W000:1
+W430:Producing for theatre:W000:1
+W440:Theatre studies:W000:1
+W441:Theatre & professional practice:W000:1
+W442:Contemporary theatre:W000:1
+W443:Technical arts & special effects for theatre:W000:1
+W450:Stage management:W000:1
+W451:Theatrical wardrobe design:W000:1
+W452:Theatrical make-up:W000:1
+W453:Technical stage management:W000:1
+W460:Theatre design:W000:1
+W461:Stage design:W000:1
+W470:Performance & live arts:W000:1
+W471:European/world theatre arts:W000:1
+W472:Circus arts:W000:1
+W473:Community theatre:W000:1
+W490:Drama not elsewhere classified:W000:1
+W500:Dance:W000:1
+W510:Choreography:W000:1
+W520:Body awareness:W000:1
+W530:History of dance:W000:1
+W531:Dance & culture:W000:1
+W532:Community dance:W000:1
+W540:Types of dance:W000:1
+W541:Ballet:W000:1
+W542:Dance theatre:W000:1
+W543:Contemporary dance:W000:1
+W544:Jazz dance:W000:1
+W550:Dance performance:W000:1
+W590:Dance not elsewhere classified:W000:1
+W600:Cinematics & photography:W000:1
+W610:Moving image techniques:W000:1
+W611:Directing motion pictures:W000:1
+W612:Producing motion pictures:W000:1
+W613:Film & sound recording:W000:1
+W614:Visual & audio effects:W000:1
+W615:Animation techniques:W000:1
+W620:Cinematography:W000:1
+W630:History of cinematics & photography:W000:1
+W631:History of cinematics:W000:1
+W632:History of photography:W000:1
+W640:Photography:W000:1
+W690:Cinematics & photography not elsewhere classified:W000:1
+W700:Crafts:W000:1
+W710:Fabric & leather crafts:W000:1
+W711:Needlecraft:W000:1
+W712:Dressmaking:W000:1
+W713:Soft furnishing:W000:1
+W714:Weaving:W000:1
+W715:Leatherwork:W000:1
+W720:Metal crafts:W000:1
+W721:Silversmithing/goldsmithing:W000:1
+W722:Blacksmithing:W000:1
+W723:Clock/watchmaking:W000:1
+W730:Wood crafts:W000:1
+W731:Carpentry/joinery:W000:1
+W732:Cabinet making:W000:1
+W733:Marquetry & inlaying:W000:1
+W734:Veneering:W000:1
+W740:Surface decoration:W000:1
+W750:Clay & stone crafts:W000:1
+W751:Pottery:W000:1
+W752:Tile making:W000:1
+W753:Stone crafts:W000:1
+W760:Reed crafts:W000:1
+W761:Basketry:W000:1
+W762:Thatching:W000:1
+W770:Glass crafts:W000:1
+W771:Glassblowing:W000:1
+W780:Paper crafts:W000:1
+W781:Bookbinding:W000:1
+W782:Origami:W000:1
+W790:Crafts not elsewhere classified:W000:1
+W800:Imaginative writing:W000:1
+W810:Scriptwriting:W000:1
+W820:Poetry writing:W000:1
+W830:Prose writing:W000:1
+W890:Imaginative writing not elsewhere classified:W000:1
+W900:Others in creative arts & design:W000:1
+W990:Creative arts & design not elsewhere classified:W000:1
+W000:Creative arts & design:subjects:0
+X100:Training teachers:X000:1
+X110:Training teachers - nursery:X000:1
+X120:Training teachers - primary:X000:1
+X121:Training teachers - infant (key stage 1):X000:1
+X122:Training teachers - junior (key stage 2):X000:1
+X130:Training teachers - secondary:X000:1
+X131:Training teachers - key stage 3:X000:1
+X132:Training teachers - key stage 4:X000:1
+X140:Training teachers - tertiary:X000:1
+X141:Training teachers - further education:X000:1
+X142:Training teachers - higher education:X000:1
+X150:Training teachers - adult education:X000:1
+X151:Training teachers - coaching:X000:1
+X160:Training teachers - specialist:X000:1
+X161:Training teachers - special needs:X000:1
+X162:Teaching English as a Foreign Language (TEFL):X000:1
+X190:Training teachers not elsewhere classified:X000:1
+X200:Research & study skills in education:X000:1
+X210:Research skills:X000:1
+X220:Study skills:X000:1
+X290:Research & study skills in education not elsewhere classified:X000:1
+X300:Academic studies in education:X000:1
+X310:Academic studies in nursery education:X000:1
+X320:Academic studies in primary education:X000:1
+X330:Academic studies in secondary education:X000:1
+X340:Academic studies in tertiary education:X000:1
+X341:Academic studies in further education:X000:1
+X342:Academic studies in higher education:X000:1
+X350:Academic studies in adult education:X000:1
+X360:Academic studies in specialist education:X000:1
+X370:Academic studies in education (across phases):X000:1
+X390:Academic studies in education not elsewhere classified:X000:1
+X900:Others in education:X000:1
+X990:Education not elsewhere classified:X000:1
+X000:Education:subjects:0
+Y000:Combined/general subject unspecified:subjects:0
